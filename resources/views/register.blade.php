@@ -52,14 +52,14 @@
 <div class="container">
     <div class="row ">
         <!-- Left Column: Image -->
-        <div class="col-6">
-            <div class="image-container">
-                <img src="https://img.freepik.com/premium-vector/illustration-vector-graphic-cartoon-character-online-registration_516790-1805.jpg" alt="Register" class="img-fluid">
-            </div>
-        </div>
+{{--        <div class="col-6">--}}
+{{--            <div class="image-container">--}}
+{{--                <img src="https://img.freepik.com/premium-vector/illustration-vector-graphic-cartoon-character-online-registration_516790-1805.jpg" alt="Register" class="img-fluid">--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <!-- Right Column: Form -->
-        <div class="col-6">
+        <div class="col-12">
             <div class="form-container">
                 <h1>Register</h1>
                 <form action="/do-register" method="POST">
